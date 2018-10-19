@@ -9,7 +9,7 @@ while repeat == 'y':
     month = int(input('Input bulan: ')) - 1
 
     if day < pivots[month]:
-        print(f'Zodiak pada tanggal {day} {month_names[month]} adalah : {zodiac_names[(month-1+12)%12]}')
+        print(f'Zodiak pada tanggal {day} {month_names[month]} adalah : {zodiac_names[(month-1)]}')
     else:
         print(f'Zodiak pada tanggal {day} {month_names[month]} adalah : {zodiac_names[month]}')
 
