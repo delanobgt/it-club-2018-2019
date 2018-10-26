@@ -1,4 +1,5 @@
-diberikan sebuah array of number, tentukan nilai tebesar ke-2 dan banyak kemunculannya
+diberikan sebuah array of number, 
+tentukan nilai terbesar ke-2 dan banyak kemunculannya
 
 Format Input
 n (banyak bilangan)
