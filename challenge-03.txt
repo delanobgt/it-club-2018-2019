@@ -1,0 +1,35 @@
+diberikan sebuah array of number, tentukan nilai tebesar ke-2 dan banyak kemunculannya
+
+Format Input
+n (banyak bilangan)
+n-1
+n-2
+n-3
+n-4
+n-5
+
+Format Output
+[bilangan terbesar ke-2] [banyak kemunculan bilangan terbesar ke-2]
+
+[Testcase 1]
+>>Input:
+5
+1
+4
+3
+5
+2
+
+>>Output:
+4 1
+
+[Testcase 2]
+>>Input:
+4
+1
+2
+2
+3
+
+>>Output:
+2 2

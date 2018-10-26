@@ -1,7 +1,0 @@
-
-1. Commitment Fee
-2. Challenge Editorial (and Awarding)
-3. For Segitiga (penjelasan dan exercise)
-4. List, Tuple, Dict, Set
-5. Exercise Zodiak
-6. Exercise Data Structure

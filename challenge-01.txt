@@ -1,35 +1,29 @@
-n: 1
-*
+diberikan dua buah string, yaitu string A dan string buah
+tentukan apakah string A dan string B merupakan anagram
+String A dan B disebut Anagram apabila huruf-huruf string A dapat disusun ulang menjadi string B
 
-n: 2
- *
-***
- *
+[Testcase 1]
+>>Input:
+abc
+bac
 
-n: 3
-  *
- ***
-*****
- ***
-  *
-
-n: 4
-   *  
-  ***
- *****
-*******
- *****
-  ***
-   *
+>>Output:
+Anagram
 
 
-f(x) = |x|
- 4 *     *
- 3  *   *
- 2   * *
- 1    *
- 0 --------
--1    *
--2   * *
--3  *   *
--4 *     *
+[Testcase 2]
+>>Input:
+laripagi
+rapigali
+
+>>Output:
+Anagram
+
+
+[Testcase 3]
+>>Input:
+nababan
+nababon
+
+>>Output:
+Bukan Anagram
