@@ -34,3 +34,10 @@ Format Output
 
 >>Output:
 2 2
+
+***
+    syaratnya hanya boleh menggunakan 1 For loop 
+    dan tidak boleh menggunakan function built-in seperti max, min, count, dan kawan-kawannya,
+    namun boleh menggunakan variabel dan syntax lainnya
+***
+
