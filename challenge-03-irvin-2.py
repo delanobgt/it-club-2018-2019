@@ -4,11 +4,11 @@ lst = []
 for i in range(n):
     lst.append(int(input()))
 
-first = lst[0]
+first = -1
 second = -1
 first_count = second_count = 1
 
-for item in lst[1:]:
+for item in lst:
     if item == first:
         first_count += 1
     elif item == second:
