@@ -1,8 +1,0 @@
-n: 5
-data ke-1: 4
-data ke-2: 4
-data ke-3: 2
-data ke-4: 3
-data ke-5: 1
-maximum value:  4
-maximum count:  2
